@@ -1,0 +1,10 @@
+{
+  "name": "Motorcycle Route Payload Generator",
+  "description": "Geolocates route waypoints, schedules stop layovers, and generates compliant API payload JSON for Google Maps Routes API integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
